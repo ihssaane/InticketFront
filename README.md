@@ -20,7 +20,7 @@ The **InTicket** app is a Flutter-based mobile application that allows users to 
 2. **QR Scanner Page**:
    - This page allows users to scan a QR code using the phone's camera.
    - After scanning, the app can display the ticket information or perform any further action depending on the use case.
-  !  qr code  page](assets/QR_page.png) 
+  !  [qr code  page](assets/qr.png) 
 
 ## Technologies
 - **Flutter**: The app is built using Flutter to ensure cross-platform compatibility (iOS and Android).
@@ -34,13 +34,17 @@ To run the app locally, follow these steps:
 1. **Clone the Repository**:
    ```bash
    git clone <repository-url>
-2.**Install Dependencies: Navigate to the project directory and run the following command:**
-  ```bash
-   flutter pub get
+## Install Dependencies
 
-3.**Run the App: Use the following command to run the app:**
+To install the dependencies for the project, follow these steps:
+
+ 1. **Navigate to the project directory**:
+   First, open your terminal and change the current working directory to the root of your Flutter project. You can do this with the `cd` (change directory) command:
+   
    ```bash
-   flutter run
+   cd path/to/your/project  
+  
+
 
 
 
