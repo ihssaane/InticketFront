@@ -14,14 +14,14 @@ The **InTicket** app is a Flutter-based mobile application that allows users to 
    - Displays the app logo and a welcoming message.
    - Provides a "Scan QR Code" button that leads to the QR scanner screen.
    - The UI includes smooth animations for the logo and welcome text.
-<img src="assets/home_page.jpg" alt="home page" width="100" height="200">
+<img src="assets/home_page.jpg" alt="home page" width="300" height="500">
 
 
 
 2. **QR Scanner Page**:
    - This page allows users to scan a QR code using the phone's camera.
    - After scanning, the app can display the ticket information or perform any further action depending on the use case.
- <img src="assets/qr.jpg" alt="home page" width="100" height="200">
+ <img src="assets/qr.jpg" alt="home page" width="300" height="500">
 
 
 ## Technologies
