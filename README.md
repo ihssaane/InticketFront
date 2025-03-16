@@ -50,7 +50,9 @@ To install the dependencies for the project, follow these steps:
    First, open your terminal and change the current working directory to the root of your Flutter project. You can do this with the `cd` (change directory) command:
    
    ```bash
-   cd path/to/your/project  
+   cd path/to/your/project
+   flutter pub get
+
   
 
 
