@@ -36,8 +36,7 @@ dependencies:
   mobile_scanner: ^3.5.5
   permission_handler: ^10.2.0
   lottie: ^2.3.2
-
-
+  ar_flutter_plugin: ^0.7.3
 
 
 

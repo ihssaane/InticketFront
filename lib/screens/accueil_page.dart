@@ -225,7 +225,7 @@ class _AccueilPageState extends State<AccueilPage> with SingleTickerProviderStat
                                   ),
                                   const SizedBox(width: 10),
                                   Text(
-                                    'Scan QR Code',
+                                    'Enjoooy ',
                                     style: TextStyle(
                                       fontSize: 18,
                                       fontWeight: FontWeight.bold,
